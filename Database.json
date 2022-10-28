@@ -1,0 +1,320 @@
+{
+  "Adata": [
+    {
+      "catname": "Gaming",
+      "category": [
+        {
+          "categoryname": "headset",
+          "categoryimage":
+            "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Headset_1x._SY116_CB667159060_.jpg",
+          "products": [
+            {
+              "productid":1,
+              "productname":
+                " Razer Kraken X Ultralight Gaming Headset: 7.1 Surround Sound Lightweight Aluminum Frame Bendable Cardioid Microphone  for PC, PS4, PS5, Switch, Xbox One, Xbox Series X|S, Mobile  Black",
+              "productimage": "https://m.media-amazon.com/images/I/61QIMDB3YTL._AC_UY327_FMwebp_QL65_.jpg",
+              "productprice": 1000,
+              "productrating": "4.5",
+              "productquantity": 1
+            },
+            {
+              "productid":2,
+              "productname":
+                " BENGOO G9000 Stereo Gaming Headset for PS4 PC Xbox One PS5 Controller, Noise Cancelling Over Ear Headphones with Mic, LED Light, Bass Surround, Soft Memory Earmuffs for Laptop Mac Ninten",
+              "productimage": "https://m.media-amazon.com/images/I/61CGHv6kmWL._AC_UY327_FMwebp_QL65_.jpg",
+              "productprice": 1999,
+              "productrating": "4.5",
+              "productquantity": 1
+            },
+            {
+              "productid":3,
+              "productname":
+                " Razer Kraken Gaming Headset: Lightweight Aluminum Frame, Retractable Noise Isolating Microphone, For PC, PS4, PS5, Switch, Xbox One, Xbox Series X & S, Mobile, 3.5 mm Audio Jack",
+              "productimage": "https://m.media-amazon.com/images/I/71BKQhFzDmL._AC_UY327_FMwebp_QL65_.jpg",
+              "productprice": 2999,
+              "productrating": "4.5",
+              "productquantity": 1
+            }
+          ]
+        },
+  
+        {
+          "categoryname": "keyboards",
+          "categoryimage":
+            "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Keyboard_1x._SY116_CB667159063_.jpg",
+          "products": [
+            {
+              "productname": "Snpurdiri 60% Wired Gaming Keyboard, RGB Backlit Ultra-Compact Mini Keyboard, Waterproof Mini Compact 61 Keys Keyboard for PC/Mac Gamer, Typist, Travel, Easy to Carry on Business Trip",
+              "productimage": "https://m.media-amazon.com/images/I/61+CP7KG4nL._AC_UY327_FMwebp_QL65_.jpg",
+              "productprice": "1,999",
+              "productrating": "4.3",
+              "productquantity": 1
+            },
+            {
+              "productname": "SteelSeries Apex 3 RGB Gaming Keyboard – 10-Zone RGB Illumination – IP32 Water Resistant – Premium Magnetic Wrist Rest (Whisper Quiet Gaming Switch)",
+              "productimage": "https://m.media-amazon.com/images/I/81L8fk7SGQL._AC_UY327_FMwebp_QL65_.jpg",
+              "productprice": "5,999",
+              "productrating": "3.3",
+              "productquantity": 1
+            },
+            {
+              "productname": "Razer Cynosa Chroma Gaming Keyboard: Individually Backlit RGB Keys - Spill-Resistant Design - Programmable Macro Functionality - Quiet & Cushioned",
+              "productimage": "https://m.media-amazon.com/images/I/61WgmLgwuQL._AC_UY327_FMwebp_QL65_.jpg",
+              "productprice": "1,700",
+              "productrating": "4.3",
+              "productquantity": 1
+            }
+          ]
+        },
+  
+        {
+          "categoryname": "Computer Mouse",
+          "categoryimage":
+            "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Mouse_1x._SY116_CB667159063_.jpg",
+          "products": [
+            {
+              "productname": "Logitech G502 HERO High Performance Wired Gaming Mouse, HERO 25K Sensor, 25,600 DPI, RGB, Adjustable Weights, 11 Programmable Buttons, On-Board Memory, PC / Mac",
+              "productimage": "https://m.media-amazon.com/images/I/61mpMH5TzkL._AC_UY327_FMwebp_QL65_.jpg",
+              "productprice": "3,999",
+              "productrating": "4.5",
+              "productquantity": 1
+            },
+            {
+              "productname": "Razer DeathAdder Essential Gaming Mouse: 6400 DPI Optical Sensor - 5 Programmable Buttons - Mechanical Switches - Rubber Side Grips - Mercury White",
+              "productimage": "https://m.media-amazon.com/images/I/51S6IQ2lGwL._AC_UY327_FMwebp_QL65_.jpg",
+              "productprice": "2,999",
+              "productrating": "3.9",
+              "productquantity": 1
+            }
+          ]
+        },
+        {
+          "categoryname": "Chairs",
+          "categoryimage":
+            "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Chair_1x._SY116_CB667159060_.jpg",
+          "products": [
+            {
+              "productname": "RESPAWN RSP-110 Racing Style Gaming, Reclining Ergonomic Chair with Footrest, Green Visit the RESPAWN Store",
+              "productimage": "https://m.media-amazon.com/images/I/71y8rPagzDL._AC_UL480_FMwebp_QL65_.jpg",
+              "productprice": "20,999",
+              "productrating": "4.9",
+              "productquantity": 1
+            },
+            {
+              "productname": "YSSOA Gaming Office High Back Computer Ergonomic Adjustable Swivel Chair, Red",
+              "productimage": "https://m.media-amazon.com/images/I/61O4ilN5v1S._AC_UL480_FMwebp_QL65_.jpg",
+              "productprice": "23,999",
+              "productrating": "4.9",
+              "productquantity": 1
+            },
+            {
+              "productname": "Leopard Gaming Chair, High Back PU Leather Office Chair, Adjustable Video Gaming Chairs, Swivel Racing Chair with Adjustable Armrest (Black/Red)",
+              "productimage": "https://m.media-amazon.com/images/I/71ei5797s0L._AC_UL480_FMwebp_QL65_.jpg",
+              "productprice": "18,999",
+              "productrating": "3.9",
+              "productquantity": 1
+            }
+          ]
+        }
+      ]
+    },
+  
+    {
+      "catname": "Shop by Category",
+      "category": [
+        {
+        "categoryname": "Video Games",
+          "categoryimage":
+            "https://m.media-amazon.com/images/I/61z3GQgEPZL._AC_UL480_QL65_.jpg",
+          "products": [
+            {
+              "productid": 1,
+              "productname":
+                " Oculus Quest 2 — Advanced All-In-One Virtual Reality Headset — 128 GB",
+              "productimage": "https://m.media-amazon.com/images/I/615YaAiA-ML._AC_UL480_QL65_.jpg",
+              "productprice": 64999,
+              "productrating": "4.2",
+              "productquantity": 1
+            },
+            {
+              "productid":2,
+              "productname":
+                "Oculus Quest 2 — Advanced All-In-One Virtual Reality Headset — 256 GB",
+              "productimage": "https://m.media-amazon.com/images/I/61kwRNPtMpL._AC_UL480_QL65_.jpg",
+              "productprice": 78999,
+              "productrating": "4.5",
+              "productquantity": 1
+            },
+            {
+              "productid":3,
+              "productname":
+                "PlayStation DualSense Wireless Controller – Midnight Black",
+              "productimage": "https://m.media-amazon.com/images/I/61O9tWR6WDS._AC_UL480_QL65_.jpg",
+              "productprice": 22999,
+              "productrating": "4.9",
+              "productquantity": 1
+            }
+          ]
+        },
+  
+        {
+          "categoryname": "Computer & Accessories",
+          "categoryimage":
+            "https://m.media-amazon.com/images/I/91fAU6mxFsL._AC_UL480_QL65_.jpg",
+          "products": [
+            {
+              "productname":
+                "Roku Streaming Stick+ | HD/4K/HDR Streaming Device with Long-range Wireless and Roku Voice Remote with TV",
+              "productimage": "https://m.media-amazon.com/images/I/71gBY-gGBwL._AC_UL480_QL65_.jpg",
+              "productprice": "Rs. 14,999",
+              "productrating": "4.6",
+              "productquantity": 1
+            },
+            {
+              "productname":
+                "Sceptre 24 Professional Thin 75Hz 1080p LED Monitor 2x HDMI VGA Build-in Speakers, Machine Black E248W-19203R Series",
+              "productimage": "https://m.media-amazon.com/images/I/71rXSVqET9L._AC_UL480_QL65_.jpg",
+              "productprice": "Rs. 12,999",
+              "productrating": "4.6",
+              "productquantity": 1
+            },
+            {
+              "productname":
+                "HP DeskJet 4155e All-in-One Wireless Color Printer, with bonus 6 months free Instant Ink with HP+ (26Q90A)",
+              "productimage": "https://m.media-amazon.com/images/I/612G5AUOZWL._AC_UL480_QL65_.jpg",
+              "productprice": "Rs. 34,999",
+              "productrating": "3.9",
+              "productquantity": 1
+            }
+          ]
+        },
+        
+        {
+          "categoryname": "Baby",
+          "categoryimage":
+            "https://m.media-amazon.com/images/I/81f79OfUsrS._AC_UL480_QL65_.jpg",
+          "products": [
+            {
+              "productname":
+                "WaterWipes Original Baby Wipes, 99.9% Water, Unscented & Hypoallergenic for Sensitive Newborn Skin, 9 Packs",
+              "productimage": "https://m.media-amazon.com/images/I/71QN+rwllwL._AC_UL480_QL65_.jpg",
+              "productprice": "Rs. 999",
+              "productrating": "4.6",
+              "productquantity": 1
+            },
+            {
+              "productname":
+                "Baby Wipes, Pampers Sensitive Water Based Baby Diaper Wipes, Hypoallergenic and Unscented, 8 Refill Packs",
+              "productimage": "https://m.media-amazon.com/images/I/71VcRPrsScL._AC_UL480_QL65_.jpg",
+              "productprice": "Rs. 1,199",
+              "productrating": "4.9",
+              "productquantity": 1
+            },
+            {
+              "productname":
+                "Baby Wipes, Huggies Natural Care Sensitive Baby Diaper Wipes, Unscented, Hypoallergenic, 12 Flip-Top Packs",
+              "productimage": "https://m.media-amazon.com/images/I/81bnwwQxGGS._AC_UL480_QL65_.jpg",
+              "productprice": "Rs. 1,299",
+              "productrating": "4.7",
+              "productquantity": 1
+            }
+          ]
+        },
+  
+        {
+          "categoryname": "Toys & Games",
+          "categoryimage":
+            "https://m.media-amazon.com/images/I/61VJWSztDcL._AC_UL480_QL65_.jpg",
+          "products": [
+            {
+              "productname":
+                "Sassy Stacks of Circles Stacking Ring STEM Learning Toy, Age 6+ Months, Multi, 9 Piece Set",
+              "productimage": "https://m.media-amazon.com/images/I/71NMrhZel6L._AC_UL480_QL65_.jpg",
+              "productprice": "Rs. 599",
+              "productrating": "4.6",
+              "productquantity": 1
+            },
+            {
+              "productname":
+                "Play-Doh Modeling Compound 10-Pack Case of Colors, Non-Toxic, Assorted, 2 oz. Cans, Ages 2 and up, Multicolor (Amazon Exclusive)",
+              "productimage": "https://m.media-amazon.com/images/I/81xV+D1OkGL._AC_UL480_QL65_.jpg",
+              "productprice": "Rs. 899",
+              "productrating": "4.5",
+              "productquantity": 1
+            },
+            {
+              "productname":
+                "LEGO Star Wars Boba Fett’s Starship 75312 Fun Toy Building Kit; Awesome Gift Idea for Kids; New 2021 (593 Pieces)",
+              "productimage": "https://m.media-amazon.com/images/I/81jOzE2S7CL._AC_UL480_QL65_.jpg",
+              "productprice": "Rs. 859",
+              "productrating": "4.5",
+              "productquantity": 1
+            }
+          ]
+        }
+      ]
+    },
+  
+  
+    {
+      "catname": "Gaming merchandises",
+      "category": [
+        {
+          "categoryname": "Apparel",
+          "categoryimage":
+            "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Apparel_1x._SY116_CB667159060_.jpg",
+          "products": [
+            {
+              "productname": "",
+              "productimage": "",
+              "productprice": ""
+            }
+          ]
+        },
+        {
+          "categoryname": "Hats",
+          "categoryimage":
+            "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Hat_1x._SY116_CB667159060_.jpg",
+          "products": [
+            {
+              "productname": "",
+              "productimage": "",
+              "productprice": ""
+            }
+          ]
+        },
+        {
+          "categoryname": "Action figures",
+          "categoryimage":
+            "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Figure_1x._SY116_CB667159060_.jpg",
+          "products": [
+            {
+              "productname": "",
+              "productimage": "",
+              "productprice": ""
+            }
+          ]
+        },
+        {
+          "categoryname": "Mugs",
+          "categoryimage":
+            "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Mug_1x._SY116_CB667159063_.jpg",
+          "products": [
+            {
+              "productname": "",
+              "productimage": "",
+              "productprice": ""
+            }
+          ]
+        }
+      ]
+    }
+
+
+  ]
+}
+
+
+  
+ 
+
